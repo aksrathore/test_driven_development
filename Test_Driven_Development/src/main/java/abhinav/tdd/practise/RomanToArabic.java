@@ -1,5 +1,9 @@
 package main.java.abhinav.tdd.practise;
 
+/*
+ * This class prints the Arabic equivalent of a valid Roman number 
+ * by the use of convertRomanToArabic(String romanNumber) method.
+ */
 public class RomanToArabic {
 
 	private static enum RomanNumbers {
